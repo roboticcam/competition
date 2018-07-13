@@ -1,7 +1,6 @@
-# scholar_competition
-### Data Analytics Competition
+# RiDLL Summer School Scholarly competition
 
-access use the following URL:
+Please access via the following URL:
 
 http://35.232.199.180/
 
