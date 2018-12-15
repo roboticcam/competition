@@ -1,4 +1,4 @@
-# Prof Richard Xu's PhD studnet entrance tasks
+# PhD applicant's skill evaluation tasks
 
 Please download the questions [Questions](https://github.com/roboticcam/competition/blob/master/PhD_entrance_Task.docx) and supplementary dataset:
 
